@@ -15,3 +15,7 @@ jobs:
         username: projetnfa021
         password: JeJbSwyxH!!$X^4B#qBF
         server-dir : public_html/
+        exclude: |
+          **/.git*
+          **/.git*/**
+          **/node_modules/**
