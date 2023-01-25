@@ -14,3 +14,5 @@ jobs:
         server: files.000webhost.com
         username: projetnfa021
         password: JeJbSwyxH!!$X^4B#qBF
+        local_dir: "./public_html"
+        delete: "true"
