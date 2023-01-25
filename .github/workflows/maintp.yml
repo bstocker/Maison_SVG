@@ -19,3 +19,4 @@ jobs:
           **/.git*
           **/.git*/**
           **/node_modules/**
+          **/.ftp-deploy-sync-state.json/**
