@@ -1,4 +1,4 @@
-name: CI -> Deploy to My website
+name: CI5
 on:
   push:
     branches: [ master, Development ]
